@@ -22,7 +22,7 @@ I use it to date script versions... eg: `574_file_scripts.sh`
 
 Which column of files is nicer to read?:
 
-| [RickDate][1] NICE | long/non-sortable NOT NICE |
+| RickDate NICE | long/non-sortable NOT NICE |
 | --- | --- |
 574_filename.png | 4_July_2021_filename.png |
 575_filename.png | 20210705_filename.png |
