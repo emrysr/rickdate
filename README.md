@@ -24,14 +24,14 @@ Which column of files is nicer to read?:
 
 | [RickDate][1] NICE | long/non-sortable NOT NICE |
 | --- | --- |
-574_filename.png | 4_July_2021_filename.png
-575_filename.png | 20210705_filename.png
-576_filename.png | 06_07_2021_filename.png
-584_filename.png | 4_August_2021_filename.png
-594_filename.png | 04_September_2021_filename.png
-674_filename.png | July_04_2022_filename.png
-774_filename.png | 4_July_2022_filename.png
-774_filename.png | 2022-07-04_filename.png*
+574_filename.png | 4_July_2021_filename.png |
+575_filename.png | 20210705_filename.png |
+576_filename.png | 06_07_2021_filename.png |
+584_filename.png | 4_August_2021_filename.png |
+594_filename.png | 04_September_2021_filename.png |
+674_filename.png | July_04_2022_filename.png |
+774_filename.png | 4_July_2022_filename.png |
+774_filename.png | 2022-07-04_filename.png* |
 
 
 ## Examples of different dates
@@ -39,21 +39,21 @@ Here are examples of how a [RickDate][1] would changes over time:
 
 | Change of years | year |
 | --- | --- |
-| 4th of July `2021` | `5`74
-| 4th of July `2022` | `6`74
-| 4th of June `2023` | `7`74
+| 4th of July `2021` | `5`74 |
+| 4th of July `2022` | `6`74 |
+| 4th of June `2023` | `7`74 |
 
 | Change of months | month |
 | --- | --- |
-| 4th of `July` 2021 | 5`7`4
-| 4th of `Aug` 2021 | 5`8`4
-| 4th of `Sept` 2021 | 5`9`4
+| 4th of `July` 2021 | 5`7`4 |
+| 4th of `Aug` 2021 | 5`8`4 |
+| 4th of `Sept` 2021 | 5`9`4 |
 
 | Change of days | day |
 | --- | --- |
-| `4th` of July 2021 | 57`4`
-| `5th` of July 2021 | 57`5`
-| `6th` of July 2021 | 57`6`
+| `4th` of July 2021 | 57`4` |
+| `5th` of July 2021 | 57`5` |
+| `6th` of July 2021 | 57`6` |
 
 ## Usage
 ```python
