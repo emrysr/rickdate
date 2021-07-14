@@ -97,6 +97,10 @@ python3 -m build
 ```
 python3 -m twine upload --repository testpypi dist/*
 ```
+future changes (once re-built)
+```
+python3 -m twine upload --skip-existing --repository testpypi dist/*
+```
 
 
 _last updated: **57E**_
