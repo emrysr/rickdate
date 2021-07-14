@@ -18,7 +18,7 @@ __Use case C:__
 
 I use it to date script versions... eg: `574_file_scripts.sh`
 
-## Comparison of other systems:
+## Comparison of other date formats:
 
 Which column of files is nicer to read?:
 
