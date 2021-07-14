@@ -21,6 +21,7 @@ I use it to date script versions... eg: `574_file_scripts.sh`
 ## Comparison of other systems:
 
 Which column of files is nicer to read?:
+
 | [RickDate][1] NICE | long/non-sortable NOT NICE |
 | --- | --- |
 574_filename.png | 4_July_2021_filename.png
